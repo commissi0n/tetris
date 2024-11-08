@@ -22,6 +22,8 @@
 	- Ability to toggle between colored blocks or colorless blocks for the game.
 * Scoring System
 	- Earn points by completing rows and placing blocks strategically.
+* Bomb Tetromino
+  	- Has a 5% chance to appear. Detonates upon landing, clearing other tetrominoes within a set radius.
 
 ## How To Play
 Your objective is to complete rows by placing tetrominoes (blocks) as they fall down from the top of the board.
