@@ -24,6 +24,8 @@
 	- Earn points by completing rows and placing blocks strategically.
 * Bomb Tetromino
   	- Has a 5% chance to appear. Detonates upon landing, clearing other tetrominoes within a set radius.
+* Super Rotation System
+  	- Based on the current standard for how tetrominoes should rotate. 
 
 ## How To Play
 Your objective is to complete rows by placing tetrominoes (blocks) as they fall down from the top of the board.
